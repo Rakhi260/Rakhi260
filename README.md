@@ -68,17 +68,13 @@ Explore more at [My Repositories](https://github.com/Rakhi260?tab=repositories).
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<div align="center">
+Explore my projects, experiments, and development work:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakhi260&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Rakhi260?tab=repositories)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakhi260&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Rakhi260&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -87,14 +83,24 @@ Explore more at [My Repositories](https://github.com/Rakhi260?tab=repositories).
 Agentic AI • MCP • AI Research • Game AI • Intelligent Systems
 
 ---
-
 ## 🤝 Connect With Me
 
-- GitHub: [@Rakhi260](https://github.com/Rakhi260)
-- LinkedIn: [rakhi260](www.linkedin.com/in/rakhi260)
-- Email: rakhipatil2605@gmail.com
+<p align="center">
+  <a href="www.linkedin.com/in/rakhi260">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rakhi260">
+    <img src="https://img.shields.io/badge/GitHub-Rakhi260-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:rakgipatil2605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  💡 Open to AI/ML opportunities, collaboration, and research.
+</p>
+
 
 ### Building • Learning • Innovating
 
