@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="Banner.png" alt="Rakhi Patil - AI/ML Engineer Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Rakhi Patil
 
